@@ -6,7 +6,7 @@
 	$errors = array();
 	$_SESSION['success'] = "";
 
-	$db = mysqli_connect('localhost', 'root', '', 'afp_hnft_poker');
+	$db = mysqli_connect('z3iruaadbwo0iyfp.cbetxkdyhwsb.us-east-1.rds.amazonaws.com', 'q5hxt7ro5u889dlt', 'x92b2ftc0e960jwu', 'o1ijx7nea46308nk');
 
 	if (isset($_POST['register'])) {
 
